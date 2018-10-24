@@ -5,7 +5,7 @@
 
 from setuptools import setup, find_packages
 
-requirements = [ ]
+requirements = ['pyyaml' ]
 
 test_requirements = ['pytest', ]
 
